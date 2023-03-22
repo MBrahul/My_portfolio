@@ -634,6 +634,14 @@ h4 {
   font-size: 15px;
 }
 
+.contact-input textarea::placeholder{
+  opacity: 1;
+  color: #999;
+  font-weight: 600;
+  font-size: 15px;
+}
+
+
 .contact-input textarea{
   color: #333;
   text-align: left;
@@ -645,6 +653,7 @@ h4 {
   font-weight: 600;
   resize: none;
 }
+
 
 .contact-input label {
   color: #666;
