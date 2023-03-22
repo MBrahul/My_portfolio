@@ -201,6 +201,10 @@ header h1:hover {
   color: black;
   transition: all 0.3s;
 }
+.project-btn a{
+  text-decoration: none;
+  color: #000;
+}
 
 .project-btn:hover {
   cursor: pointer;

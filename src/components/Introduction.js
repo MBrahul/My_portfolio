@@ -20,7 +20,7 @@ export default function Introduction() {
                <p> A focused full stack Developer building the Websites and apps
                 that leads to the success of the overall product</p>
                </div>
-                <button className='project-btn'>projects</button>
+                <button className='project-btn'><a href="./#projects">projects</a></button>
                 <ion-icon className="down-arrow" name="arrow-down-outline"></ion-icon>
             </div>
     </section>
