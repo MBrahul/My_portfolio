@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/My_portfolio/static/css/main.58093c90.css",
-    "main.js": "/My_portfolio/static/js/main.f41f5e4d.js",
+    "main.css": "/My_portfolio/static/css/main.d88e1cc8.css",
+    "main.js": "/My_portfolio/static/js/main.54225a9c.js",
     "static/media/dailynews.jpg": "/My_portfolio/static/media/dailynews.71ad73fe0d552b2092d8.jpg",
     "static/media/textutils.jpg": "/My_portfolio/static/media/textutils.edc7cbe67aead6f2228d.jpg",
     "static/media/inotebook.png": "/My_portfolio/static/media/inotebook.94eba1e857ff0a1820ab.png",
@@ -10,11 +10,11 @@
     "static/media/iitg.png": "/My_portfolio/static/media/iitg.3199777ddda298e038eb.png",
     "static/media/degree.png": "/My_portfolio/static/media/degree.c579111e539c171251e7.png",
     "index.html": "/My_portfolio/index.html",
-    "main.58093c90.css.map": "/My_portfolio/static/css/main.58093c90.css.map",
-    "main.f41f5e4d.js.map": "/My_portfolio/static/js/main.f41f5e4d.js.map"
+    "main.d88e1cc8.css.map": "/My_portfolio/static/css/main.d88e1cc8.css.map",
+    "main.54225a9c.js.map": "/My_portfolio/static/js/main.54225a9c.js.map"
   },
   "entrypoints": [
-    "static/css/main.58093c90.css",
-    "static/js/main.f41f5e4d.js"
+    "static/css/main.d88e1cc8.css",
+    "static/js/main.54225a9c.js"
   ]
 }
