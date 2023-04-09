@@ -7,7 +7,6 @@ body {
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
   overflow-x: hidden;
-
   box-sizing: border-box;
   position: relative;
   line-height: 1.5;
@@ -250,7 +249,7 @@ header h1:hover {
 
 .about-section img {
   height: 450px;
-  border-radius: 20px;
+  border-radius: 100%;
   box-shadow: 10px 10px 5px 0px rgb(102, 186, 255);
 }
 
@@ -291,17 +290,20 @@ header h1:hover {
   text-shadow: 2px 2px rgb(102, 186, 255);
   ;
 }
+.skills{
+  padding: 0px 10px;
+}
 
 .skill {
   box-shadow: 0px 41.8px 33.4px rgba(0, 0, 0, 0.086);
-  height: 120px;
-  width: 145px;
+  height: 100px;
+  width: 125px;
   background-color: white;
   border-radius: 5px;
   display: flex;
   justify-content: center;
   align-items: center;
-  padding: 10px;
+  padding: 10px ;
   transition: all 0.3s;
 }
 
@@ -746,12 +748,16 @@ h4 {
 
 
 
+
 /********************** RESPONSICE CODE  *************************/
+
+
 
 
 /* 1178px  */
 
 @media(max-width:1180px) {
+  
   .project2 {
     display: flex;
     flex-direction: column;
@@ -887,7 +893,7 @@ h4 {
 
   .about-section img {
     width: 60vw;
-    border-radius: 20px;
+    border-radius: 100%;
     box-shadow: 10px 10px 5px 0px rgb(102, 186, 255);
   }
 
@@ -1000,7 +1006,12 @@ h4 {
   .footer-intro{
     max-width: 70vw;
   }
-
+  .about-section img {
+    width: 90vw;
+    /* height: 200px; */
+    border-radius: 100%;
+    box-shadow: 10px 10px 5px 0px rgb(102, 186, 255);
+  }
 }
 
 /* 400 px  */

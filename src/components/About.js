@@ -1,9 +1,10 @@
 import React from 'react'
 
+
 export default function About() {
   return (
     <section className='about-section' id='about'>
-        <img src="https://scontent.fmaa8-1.fna.fbcdn.net/v/t39.30808-6/334580238_932292721281103_6502487229770419781_n.jpg?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=VsymUAmXeagAX8VhiRB&_nc_ht=scontent.fmaa8-1.fna&oh=00_AfD6FO5xc43JlnsfUopuZPN_zzQusu2d5uObmwVE70C29Q&oe=641DE38D" alt="vishvjeet prajapati" />
+        <img src="https://media.licdn.com/dms/image/D4D03AQFBu_ZRliZ9iQ/profile-displayphoto-shrink_800_800/0/1678450931046?e=1686787200&v=beta&t=ErEupsdf0NfPOdNJJO29s0a1QH-N6PqbXmKOy_iM10U"alt="vishvjeet prajapati" />
 
         <div className="about">
             <h1>ABOUT ME</h1>
