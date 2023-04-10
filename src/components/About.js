@@ -9,7 +9,7 @@ export default function About() {
         <div className="about">
             <h1>ABOUT ME</h1>
             <h4>VISHVJEET PRAJAPATI - SOFTWARE DEVELOPER</h4>
-            <p>Hi, I am vishvjeet prajapati from Jaipur,  i am a <b>Full stack developer</b> . Currenting i am pursuing my bachelors in <b>IIT Guwahati</b> .My hobbies are playing cricket , traving , watching thrialler movies.</p>
+            <p>Hi, I am vishvjeet prajapati from Jaipur,  i am a <b>Full stack developer</b> . Currenting i am pursuing my bachelors in <b>IIT Guwahati</b> .My hobbies are playing cricket , travelling , watching thriller movies.</p>
             <p>My first and favourite Programing language is <b>Java</b>. it's amazing.</p>
             
         </div>
