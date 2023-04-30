@@ -4,6 +4,7 @@ import dailynews from '../images/dailynews.jpg'
 import textutils from '../images/textutils.jpg'
 import movieshut from '../images/movieshut.jpg'
 import taskoo from '../images/taskoo2.jpg'
+import cinereview from '../images/cinereview.jpg'
 import Project from './Project';
 import Project2 from './Project2';
 
@@ -22,6 +23,13 @@ export default function Projects() {
             des:"DailyNews is a News website where user can go through news according to there interest. dailynews has multiple news category and also has dark mood",
             img:dailynews,
             link:"https://github.com/MBrahul/dailynews.git"
+
+        },
+        {
+            title:"Cinereivew",
+            des:"Cinereview is a movie website where user can see trending movies,top rated movie,upcoming movie's reviews and rating",
+            img:cinereview,
+            link:"https://github.com/MBrahul/CineReview.git"
 
         },
         {
