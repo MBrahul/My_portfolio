@@ -4,7 +4,7 @@ import myphoto from '../images/IMG_8602.jpeg'
 export default function About() {
   return (
     <section className='about-section' id='about'>
-        <img src = {myphoto} alt="vishvjeet prajapati" />
+        <img src = "https://firebasestorage.googleapis.com/v0/b/protfolio-265ed.appspot.com/o/IMG_8602.jpeg?alt=media&token=aae76f10-e0ef-4930-98f1-9fe7c8ddd2fb" alt="vishvjeet prajapati" />
 
         <div className="about">
             <h1>Get to know me!</h1>
